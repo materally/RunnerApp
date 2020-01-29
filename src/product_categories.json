@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Breakfast",
+        "badge": 3
+    },{
+        "name": "Burgers",
+        "badge": 6
+    },{
+        "name": "Chicken & Sandwiches",
+        "badge": 4
+    },{
+        "name": "Salads",
+        "badge": 2
+    },{
+        "name": "Extra Value Meal",
+        "badge": 5
+    },{
+        "name": "McCafé Bakery",
+        "badge": 4
+    },{
+        "name": "Happy Meal",
+        "badge": 2
+    },{
+        "name": "Desserts & Shakes",
+        "badge": 6
+    },{
+        "name": "Drinks",
+        "badge": 5
+    },{
+        "name": "Snacks & Sides",
+        "badge": 11
+    },{
+        "name": "Sauces & Dressings",
+        "badge": 3
+    },{
+        "name": "Bacon",
+        "badge": 4
+    }
+]

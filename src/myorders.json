@@ -1,0 +1,37 @@
+[{
+        "shop_name": "Goldman Sachs Group, Inc. (The)",
+        "status": 0,
+        "ordered": "15 minutes ago",
+        "image": null
+    },
+    {
+        "shop_name": "McDelivery McDonald's",
+        "status": 0,
+        "ordered": "3 days ago",
+        "image": "https://www.mcdonalds.com/content/dam/usa/documents/mcdelivery/mcdelivery_new11.jpg"
+    },
+    {
+        "shop_name": "FCB Financial Holdings, Inc.",
+        "status": 2,
+        "ordered": "18 minutes ago",
+        "image": null
+    },
+    {
+        "shop_name": "New York & Company, Inc.",
+        "status": 1,
+        "ordered": "1 hour ago",
+        "image": null
+    },
+    {
+        "shop_name": "Simmons First National Corporation",
+        "status": 3,
+        "ordered": "5 days ago",
+        "image": null
+    },
+    {
+        "shop_name": "Apollo Senior Floating Rate Fund Inc.",
+        "status": 1,
+        "ordered": "1 hour ago",
+        "image": null
+    }
+]

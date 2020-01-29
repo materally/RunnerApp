@@ -1,0 +1,58 @@
+[{
+    "shop_name": "Goldman Sachs Group, Inc. (The)",
+    "priority": 1,
+    "distance": 2,
+    "image": null
+  }, {
+    "shop_name": "Simmons First National Corporation",
+    "priority": 0,
+    "distance": 5,
+    "image": null
+  }, {
+    "shop_name": "Apollo Senior Floating Rate Fund Inc.",
+    "priority": 0,
+    "distance": 8,
+    "image": null
+  }, 
+  {
+    "shop_name": "McDelivery McDonald's",
+    "priority": 1,
+    "distance": 10,
+    "image": "https://www.mcdonalds.com/content/dam/usa/documents/mcdelivery/mcdelivery_new11.jpg"
+  },
+  {
+    "shop_name": "FCB Financial Holdings, Inc.",
+    "priority": 0,
+    "distance": 12,
+    "image": null
+  }, {
+    "shop_name": "New York & Company, Inc.",
+    "priority": 0,
+    "distance": 13,
+    "image": null
+  }, {
+    "shop_name": "First Trust Multi Cap Growth AlphaDEX Fund",
+    "priority": 0,
+    "distance": 24,
+    "image": null
+  }, {
+    "shop_name": "Century Bancorp, Inc.",
+    "priority": 0,
+    "distance": 29,
+    "image": null
+  }, {
+    "shop_name": "Professional Diversity Network, Inc.",
+    "priority": 1,
+    "distance": 44,
+    "image": null
+  }, {
+    "shop_name": "Rocket Fuel Inc.",
+    "priority": 0,
+    "distance": 49,
+    "image": null
+  }, {
+    "shop_name": "QTS Realty Trust, Inc.",
+    "priority": 1,
+    "distance": 66,
+    "image": null
+  }]

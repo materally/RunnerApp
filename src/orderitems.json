@@ -1,0 +1,30 @@
+
+    {
+        "items": [
+            {
+                "product_name": "Big Mac",
+                "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/hero/mobile/t-mcdonalds-Big-Mac.jpg",
+                "price": 2.99
+            },
+            {
+                "product_name": "French fries",
+                "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/hero/mobile/t-mcdonalds-Fries-Small-Medium.jpg",
+                "price": 1.99
+            },
+            {
+                "product_name": "Coca Cola",
+                "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/hero/mobile/t-mcdonalds-Coca-Cola-Classic-Small.jpg",
+                "price": 0.99
+            },
+            {
+                "product_name": "McFlurry with M&M's Candies",
+                "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/hero/mobile/t-mcdonalds-McFlurry-with-MMS-Chocolate-Candies-12floz-cup.jpg",
+                "price": 1.99
+            }
+        ],
+        "summary": {
+            "total_price": 7.96,
+            "delivery_fee": 3.00,
+            "grand_total": 10.96
+        }
+    }
